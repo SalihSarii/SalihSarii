@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Salih SARITEPE</h1>
 <h3 align="center">Jr. Data Scientist | ML Engineer | Data Analyst</h3>
 
+-----------------------------------------------------------
+- To reach all of my Data Science Projects => [Data Science](https://github.com/SalihSarii/VeriBilimi)
+- University Capstone Project => [Capstone Project](https://github.com/SalihSarii/HIK)
+- Software Projects => [Software Projects](https://github.com/SalihSarii/Projelerim)
+
+-----------------------------------------------------------
+
 - 🌱 I’m currently learning **Keras, Pytorch and  GenAI**
 
 
