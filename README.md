@@ -4,7 +4,7 @@
 -----------------------------------------------------------
 - To reach all of my Data Science Projects => [Data Science](https://github.com/SalihSarii/VeriBilimi)
 - University Capstone Project => [Capstone Project](https://github.com/SalihSarii/HIK)
-- Software Projects => [Software Projects](https://github.com/SalihSarii/Projelerim)
+- Software Development Projects => [Software Projects](https://github.com/SalihSarii/Projelerim)
 
 -----------------------------------------------------------
 
