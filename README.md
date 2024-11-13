@@ -8,7 +8,7 @@
 
 -----------------------------------------------------------
 
-- 🌱 I’m currently learning **Keras, Pytorch and  GenAI**
+- 🌱 I’m currently learning **MLOps Applications**
 
 
 <h3 align="left">Connect with me:</h3>
